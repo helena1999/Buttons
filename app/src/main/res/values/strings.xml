@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Buttons</string>
+    <string name="puppy"></string>
+    <string name="on">Button state on</string>
+    <string name="off">Button state off</string>
+    <string name="text">Text is now visible, at button on</string>
+    <string name="switchedON">Turned on</string>
+    <string name="switchedOFF">Turned off</string>
+    <string name="content" />
+    <string name="texty">ON</string>
+    <string name="next">Next</string>
+    <string name="puuvili">vali oma lemmik puuvili</string>
+
+</resources>
