@@ -10,5 +10,11 @@
     <string name="texty">ON</string>
     <string name="next">Next</string>
     <string name="puuvili">vali oma lemmik puuvili</string>
+    <string name="terms">Kui teed linnukese siia kasti siis toimub midagi</string>
+    <string name="agree">Nõustun tingimustega</string>
+    <string name="music">mängi muusikat</string>
+    <string name="play">play</string>
+    <string name="pause">pause</string>
+    <string name="stop">stop</string>
 
 </resources>

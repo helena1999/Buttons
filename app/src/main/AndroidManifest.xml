@@ -17,7 +17,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".ButtonsActivity" />
-        <activity android:name=".RadioButtonActivity"></activity>
+        <activity android:name=".RadioButtonActivity" />
+        <activity android:name=".VideoActivity" />
+        <activity android:name=".MusicActivity"></activity>
     </application>
 
 </manifest>

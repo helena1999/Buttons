@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.opilane.buttons.VideoActivity"
+    android:background="#ffc4c4c4">
+
+    <VideoView
+        android:layout_width="566dp"
+        android:layout_height="662dp"
+        android:id="@+id/videoView1"
+        tools:layout_editor_absoluteX="-35dp"
+        tools:layout_editor_absoluteY="-28dp"
+        android:layout_above="@id/playmusic"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="37dp"
+        android:id="@+id/playmusic"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:text="@string/music"
+        android:onClick="playMusic"/>
+
+</RelativeLayout>
